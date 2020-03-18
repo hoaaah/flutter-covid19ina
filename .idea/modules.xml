@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/covidina.iml" filepath="$PROJECT_DIR$/covidina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/covidina_android.iml" filepath="$PROJECT_DIR$/android/covidina_android.iml" />
+    </modules>
+  </component>
+</project>
