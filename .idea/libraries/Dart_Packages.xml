@@ -30,13 +30,6 @@
             </list>
           </value>
         </entry>
-        <entry key="bubble_bottom_bar">
-          <value>
-            <list>
-              <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/bubble_bottom_bar-0.0.5/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="charcode">
           <value>
             <list>
@@ -296,7 +289,6 @@
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/args-1.5.2/lib" />
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.4.0/lib" />
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-1.0.5/lib" />
-      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/bubble_bottom_bar-0.0.5/lib" />
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/charts_common-0.9.0/lib" />
       <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/charts_flutter-0.9.0/lib" />

@@ -1,12 +1,7 @@
-import 'dart:async';
-import 'dart:convert';
-
 import 'package:Covid19Ina/pages/home.dart';
 import 'pages/about-us.dart';
 import 'package:flutter/material.dart';
 import 'pages/global.dart';
-import 'package:http/http.dart' as http;
-import 'package:charts_flutter/flutter.dart' as charts;
 
 void main() => runApp(MyApp());
 
